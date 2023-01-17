@@ -3,4 +3,4 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=george-pench&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=george-pench&layout=compact)](https://github.com/george-pench/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=george-pench&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=george-pench&layout=compact)](https://github.com/george-pench/github-readme-stats)
