@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 🌱 I’m currently learning **JavaScript, HTML & CSS**
-
 - 📫 How to reach me **penchev.georgii@gmail.com**
 
 <!---- 📄 Know about my experiences [https://george-pench.github.io/](https://george-pench.github.io/) -->
