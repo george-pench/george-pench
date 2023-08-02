@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 📫 How to reach me **penchev.georgii@gmail.com**
-
 <!---- 📄 Know about my experiences [https://george-pench.github.io/](https://george-pench.github.io/) -->
 
 <h3 align="left">Languages and Tools:</h3>
